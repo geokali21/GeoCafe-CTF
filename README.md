@@ -1,1 +1,0 @@
-# KopiGelap-CTF
